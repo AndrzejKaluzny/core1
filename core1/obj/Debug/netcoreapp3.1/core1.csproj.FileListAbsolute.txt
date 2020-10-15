@@ -1,0 +1,14 @@
+C:\Users\andrz\source\repos\core1\core1\bin\Debug\netcoreapp3.1\core1.exe
+C:\Users\andrz\source\repos\core1\core1\bin\Debug\netcoreapp3.1\core1.deps.json
+C:\Users\andrz\source\repos\core1\core1\bin\Debug\netcoreapp3.1\core1.runtimeconfig.json
+C:\Users\andrz\source\repos\core1\core1\bin\Debug\netcoreapp3.1\core1.runtimeconfig.dev.json
+C:\Users\andrz\source\repos\core1\core1\bin\Debug\netcoreapp3.1\core1.dll
+C:\Users\andrz\source\repos\core1\core1\bin\Debug\netcoreapp3.1\core1.pdb
+C:\Users\andrz\source\repos\core1\core1\obj\Debug\netcoreapp3.1\core1.Form1.resources
+C:\Users\andrz\source\repos\core1\core1\obj\Debug\netcoreapp3.1\core1.csproj.GenerateResource.cache
+C:\Users\andrz\source\repos\core1\core1\obj\Debug\netcoreapp3.1\core1.AssemblyInfoInputs.cache
+C:\Users\andrz\source\repos\core1\core1\obj\Debug\netcoreapp3.1\core1.AssemblyInfo.cs
+C:\Users\andrz\source\repos\core1\core1\obj\Debug\netcoreapp3.1\core1.csproj.CoreCompileInputs.cache
+C:\Users\andrz\source\repos\core1\core1\obj\Debug\netcoreapp3.1\core1.dll
+C:\Users\andrz\source\repos\core1\core1\obj\Debug\netcoreapp3.1\core1.pdb
+C:\Users\andrz\source\repos\core1\core1\obj\Debug\netcoreapp3.1\core1.genruntimeconfig.cache
