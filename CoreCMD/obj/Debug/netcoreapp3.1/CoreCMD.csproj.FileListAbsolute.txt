@@ -1,0 +1,13 @@
+C:\svn\core1\CoreCMD\bin\Debug\netcoreapp3.1\CoreCMD.exe
+C:\svn\core1\CoreCMD\bin\Debug\netcoreapp3.1\CoreCMD.deps.json
+C:\svn\core1\CoreCMD\bin\Debug\netcoreapp3.1\CoreCMD.runtimeconfig.json
+C:\svn\core1\CoreCMD\bin\Debug\netcoreapp3.1\CoreCMD.runtimeconfig.dev.json
+C:\svn\core1\CoreCMD\bin\Debug\netcoreapp3.1\CoreCMD.dll
+C:\svn\core1\CoreCMD\bin\Debug\netcoreapp3.1\CoreCMD.pdb
+C:\svn\core1\CoreCMD\obj\Debug\netcoreapp3.1\CoreCMD.csprojAssemblyReference.cache
+C:\svn\core1\CoreCMD\obj\Debug\netcoreapp3.1\CoreCMD.AssemblyInfoInputs.cache
+C:\svn\core1\CoreCMD\obj\Debug\netcoreapp3.1\CoreCMD.AssemblyInfo.cs
+C:\svn\core1\CoreCMD\obj\Debug\netcoreapp3.1\CoreCMD.csproj.CoreCompileInputs.cache
+C:\svn\core1\CoreCMD\obj\Debug\netcoreapp3.1\CoreCMD.dll
+C:\svn\core1\CoreCMD\obj\Debug\netcoreapp3.1\CoreCMD.pdb
+C:\svn\core1\CoreCMD\obj\Debug\netcoreapp3.1\CoreCMD.genruntimeconfig.cache

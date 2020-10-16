@@ -8,6 +8,7 @@ namespace CoreCMD
         {
             Console.WriteLine("Hello World!");
             Console.ReadKey();
+
         }
     }
 }
