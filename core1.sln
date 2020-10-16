@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "core1", "core1\core1.csproj", "{DD97D592-A00F-4693-97F6-24C2C70D172A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "core1", "core1\core1.csproj", "{DD97D592-A00F-4693-97F6-24C2C70D172A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreCMD", "CoreCMD\CoreCMD.csproj", "{04ED9A29-811C-42EC-A8BA-6EFB003EC75F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{DD97D592-A00F-4693-97F6-24C2C70D172A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD97D592-A00F-4693-97F6-24C2C70D172A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD97D592-A00F-4693-97F6-24C2C70D172A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04ED9A29-811C-42EC-A8BA-6EFB003EC75F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04ED9A29-811C-42EC-A8BA-6EFB003EC75F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04ED9A29-811C-42EC-A8BA-6EFB003EC75F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04ED9A29-811C-42EC-A8BA-6EFB003EC75F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

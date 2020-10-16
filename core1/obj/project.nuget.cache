@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oZsQgNRIQLa2rNByHn3dT7E1RGhM8RXyqNG9v3VND1vugsyj5oZQd7+Vr5jqdgoNOL0WFKjIRUdAle2IiuSrSQ==",
+  "dgSpecHash": "cUjeQlb2wDleHnxZu1PwybG6prdPuitohvxV+SxRG5zWA1SopDON1BirBY+GlqEraCq3gkxCoTUqfFrWj+U/Gg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andrz\\source\\repos\\core1\\core1\\core1.csproj",
+  "projectFilePath": "C:\\svn\\core1\\core1\\core1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

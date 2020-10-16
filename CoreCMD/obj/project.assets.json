@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\svn\\core1\\core1\\core1.csproj",
-      "projectName": "core1",
-      "projectPath": "C:\\svn\\core1\\core1\\core1.csproj",
+      "projectUniqueName": "C:\\svn\\core1\\CoreCMD\\CoreCMD.csproj",
+      "projectName": "CoreCMD",
+      "projectPath": "C:\\svn\\core1\\CoreCMD\\CoreCMD.csproj",
       "packagesPath": "C:\\Users\\andrz\\.nuget\\packages\\",
-      "outputPath": "C:\\svn\\core1\\core1\\obj\\",
+      "outputPath": "C:\\svn\\core1\\CoreCMD\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\andrz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,9 +56,6 @@
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
-          },
-          "Microsoft.WindowsDesktop.App.WindowsForms": {
-            "privateAssets": "none"
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
